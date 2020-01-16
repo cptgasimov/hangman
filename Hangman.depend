@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1515370188 source:c:\users\cpt\documents\workspace2\practice\hangman\main.cpp
+	<iostream>
+	<cstdlib>
+	"draw.h"
+	"initial.h"
+	"game_over.h"
+	"intro.h"
+	"win.h"
+	<conio.h>
+
+1515271803 c:\users\cpt\documents\workspace2\practice\hangman\draw.h
+	<iostream>
+	<string>
+
+1515271829 source:c:\users\cpt\documents\workspace2\practice\hangman\draw.cpp
+	<iostream>
+	<cstdlib>
+	"draw.h"
+	<string>
+
+1515372103 source:c:\users\cpt\documents\workspace2\practice\hangman\initial.cpp
+	"initial.h"
+	<iostream>
+	<cstdlib>
+	<string>
+	<ctime>
+	"draw.h"
+	<cctype>
+	"game_over.h"
+	"win.h"
+
+1515263875 c:\users\cpt\documents\workspace2\practice\hangman\initial.h
+	<iostream>
+	<string>
+
+1515272140 c:\users\cpt\documents\workspace2\practice\hangman\game_over.h
+	<iostream>
+	<cstdlib>
+
+1515327835 source:c:\users\cpt\documents\workspace2\practice\hangman\game_over.cpp
+	<iostream>
+	<cstdlib>
+	"game_over.h"
+	<string>
+
+1515319972 c:\users\cpt\documents\workspace2\practice\hangman\intro.h
+	<iostream>
+	<string>
+
+1515362799 source:c:\users\cpt\documents\workspace2\practice\hangman\intro.cpp
+	<iostream>
+	<string>
+	"intro.h"
+
+1515346867 c:\users\cpt\documents\workspace2\practice\hangman\win.h
+	<string>
+	<iostream>
+
+1515363118 source:c:\users\cpt\documents\workspace2\practice\hangman\win.cpp
+	"win.h"
+	<string>
+	<iostream>
+	<cstdlib>
+
